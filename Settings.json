@@ -1,0 +1,32 @@
+{
+  "Knight": {
+    "sym": "K",
+    "hp": 10,
+    "damage": 3,
+    "maxHp": 10
+  },
+  "Zombie": {
+    "sym": "Z",
+    "hp": 5,
+    "damage": 2,
+    "maxHp": 5
+  },
+  "Dragon": {
+    "sym": "D",
+    "hp": 20,
+    "damage": 4,
+    "maxHp": 20
+  },
+  "End": {
+    "sym": "E",
+    "hp": 1
+  },
+  "Wall": {
+    "sym": "#",
+    "hp": 1
+  },
+  "AidKit": {
+    "sym": "+",
+    "hp": 5
+  }
+}
